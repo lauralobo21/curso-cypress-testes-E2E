@@ -27,7 +27,7 @@ O usuário clica no botão "Cadastrar".
 Resultados Esperados:
 O sistema valida os campos obrigatórios em branco.
 O sistema exibe mensagens de erro indicando que os campos obrigatórios devem ser preenchidos.
-----------------------------------------------------------------------------------------------------
+
 
 Funcionalidade: Login no site Adopet
 
